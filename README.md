@@ -17,7 +17,7 @@ License
 -------------
 Please see the file called LICENSE.
 
-Download & Installation
+Download & Run
 ===============
 Releases: https://github.com/connorbrez/hue./releases
 
