@@ -3,7 +3,7 @@ hue.
 
 multiplayer capture the objective, emoji style.
 
-I made this game for a communications media 20 assignment, updated it for a communcations media 30 assignment.
+I started this in my spare time to learn how to do some networking in games, and finsihed it for a communications media 20 assignment. I then did some updates to it for a communcations media 30 assignment, here's the outcome of that.
 
 Libraries used
 ---------------
